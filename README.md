@@ -1,2 +1,2 @@
-# Exercicios
+# Exercicios EBAC
 Exercícios de QA
